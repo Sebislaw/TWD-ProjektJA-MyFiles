@@ -27,16 +27,16 @@ Java page
   <img src="screen/java_screen.png" width="900"/>
 </div>
 
-Matlab page
-
-<div align="center">
-  <img src="screen/matlab_screen.png" width="900"/>
-</div>
-
 Word page
 
 <div align="center">
   <img src="screen/word_screen.png" width="900"/>
+</div>
+
+Matlab page
+
+<div align="center">
+  <img src="screen/matlab_screen.png" width="900"/>
 </div>
 
 ## Selected statistics
