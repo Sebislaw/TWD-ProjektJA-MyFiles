@@ -15,17 +15,25 @@ Authors:
 To see the app click the link below:
 **[here](https://rowickim.shinyapps.io/MyFiles/)**.
 
+Home page
+
 <div align="center">
   <img src="screen/Dashboard.png" width="900"/>
 </div>
+
+Java page
 
 <div align="center">
   <img src="screen/java_screen.png" width="900"/>
 </div>
 
+Matlab page
+
 <div align="center">
   <img src="screen/matlab_screen.png" width="900"/>
 </div>
+
+Word page
 
 <div align="center">
   <img src="screen/word_screen.png" width="900"/>
